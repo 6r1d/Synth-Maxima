@@ -51,8 +51,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497476"
-     inkscape:cx="381.83368"
-     inkscape:cy="531.80971"
+     inkscape:cx="555.57991"
+     inkscape:cy="533.83002"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -81,8 +81,8 @@
      transform="translate(0,-26.06668)">
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:8.27392006;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
-       d="M 127.90187,207.51039 H 98.115765 v -95.37476 h 29.786105 m 0,0 V 95.504187 L 172.81756,63.143804 V 259.92289 L 127.90188,227.5621 v -20.05171 z"
-       id="rect1251"
+       d="M 127.90187,207.51038 H 98.115765 v -95.37476 h 29.786105 m 0,0 V 95.504187 L 172.81756,63.143806 V 259.92288 l -44.91569,-32.36079 v -20.05171 z"
+       id="rect1251-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccc" />
   </g>
