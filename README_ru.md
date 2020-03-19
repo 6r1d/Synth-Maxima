@@ -12,9 +12,10 @@
 
 ## Доступные иконки
 
-* [Осцилляторы](https://en.wikipedia.org/wiki/Electronic_oscillator): arbitrary, white noise, square (short and long), triangle (short and long), saw (short and long), sine.
+* [Осцилляторы](https://en.wikipedia.org/wiki/Electronic_oscillator): произвольный, белый шум, прямоугольная волна (2), треугольная волна (2), пилообразная волна (2), синусоида.
 * [Огибающая](https://en.wikipedia.org/wiki/Envelope_(music)): общая иконка, атака, задержка, удержание, затухание.
 * [Фильтры](https://en.wikipedia.org/wiki/High-pass_filter): ФНЧ, ФВЧ, полосовой,　заграждающий, контурный.
+* Другое: метроном, клавиши пианино, камертон, эквалайзер, динамик, выключенный динамик
 
 ![](doc/demo.png)
 

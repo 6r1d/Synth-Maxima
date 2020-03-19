@@ -14,9 +14,10 @@ Current font version is pre-alpha, [issues are welcome](https://github.com/6r1d/
 
 ## Available icons
 
-* [Oscillators](https://en.wikipedia.org/wiki/Electronic_oscillator): arbitrary, white noise, square (short and long), triangle (short and long), saw (short and long), sine.
-* [ADSR](https://en.wikipedia.org/wiki/Envelope_(music)): generic, attack, delay, sustain, release icons.
-* [Filters](https://en.wikipedia.org/wiki/High-pass_filter): high pass, low pass, band pass, band stop, loop.
+* [Oscillators](https://en.wikipedia.org/wiki/Electronic_oscillator): arbitrary, white noise, square (short and long), triangle (short and long), saw (short and long), sine
+* [ADSR](https://en.wikipedia.org/wiki/Envelope_(music)): generic, attack, delay, sustain, release icons
+* [Filters](https://en.wikipedia.org/wiki/High-pass_filter): high pass, low pass, band pass, band stop, loop
+* Other: metronome, piano keys, tuning fork, equalizer, loudspeaker, muted loudspeaker
 
 ![](doc/demo.png)
 
