@@ -23,7 +23,7 @@ Current font version is pre-alpha, [issues are welcome](https://github.com/6r1d/
 
 ## Usage
 
-Just install `Synth_Maxima.ttf` font into your system and pick icons you like.
+Just install `Synth_Maxima_Medium.ttf` font into your system and pick icons you like.
 There's also a WOFF version of a font.
 
 ## Sources
